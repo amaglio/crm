@@ -1,0 +1,95 @@
+#fusionar[name='fusionar'],
+#vincular[name='vincular'],
+#cargar_consulta[name='cargar_consulta'],
+#eliminar[name='eliminar'] {
+    visibility:hidden;
+}
+
+#contactos_encontrados thead tr {
+    background-color:rgb(228, 228, 228);
+}
+
+#div_botones {
+    display:none;
+    padding:10px;
+}
+
+.info-box-icon {
+    height: 45px;
+    line-height: 45px;
+    font-size: 25px;
+    width:40px;
+}
+
+.info-box {
+    margin-bottom:5px;
+    box-shadow: none;
+    background-color: #ecf0f5;
+}
+
+.info-box-content {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-left:40px;
+}
+
+.ver-contacto-header {
+    font-weight: bold;
+}
+
+.content-header h4 a {
+    color: #000;
+}
+
+.fa-binoculars.disabled {
+    color:grey;
+}
+
+.timeline-info {
+    margin: 10px;
+}
+
+.callout-informativo {
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.pane {
+    padding: 5px;
+}
+
+.callout-danger {
+    margin: 10px;
+    padding: 15px;
+}
+
+.callout-danger h5 {
+    margin: 0px;
+}
+
+.warn-operation {
+    color:red;
+    font-size:15px;
+    font-weight:bolder;
+}
+
+.left-pane {
+    padding-left:0px;
+}
+
+.right-pane {
+    padding-right: 0px;
+}
+
+
+.informacion_complementaria{
+    text-align: center;
+    border-right: 1px solid #ccc;
+    height: 100%;
+}
+
+.informacion_complementaria label{
+    font-size: 19px;
+display: block;
+color: #00a65a;
+}

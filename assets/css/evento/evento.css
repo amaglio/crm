@@ -1,0 +1,51 @@
+#mis_consultas thead tr {
+    background-color: rgba(221, 75, 57, 0.53);
+}
+
+#mis_consultas thead tr th:first-of-type {
+    width:35px;
+}
+
+#mis_consultas thead tr th:last-of-type {
+    width:45px;
+}
+
+#datos_persona {
+    display: none;
+    overflow: "visible";
+}
+
+#sin_resultados {
+    display: none;
+    color: red;
+}
+
+.callout-informativo {
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.callout-informativo p a {
+    color: black;
+}
+
+.pane {
+    padding: 5px;
+}
+
+.link-white {
+    color: white;
+}
+
+.link-white i.fa-arrow-circle-right {
+    padding-left: 5px;
+}
+
+.warn-no-results {
+    font-size:12px;
+    font-weight:bold;
+}
+
+.open-event-dates-enrolled {
+    margin-top: 10px;
+}

@@ -1,0 +1,58 @@
+#datos_programa{
+    display: none;
+}
+
+#sin_resultados{
+    display: none;
+}
+
+#sin_resultados {
+    color: red;
+}
+
+.callout-informativo {
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.callout-danger {
+    padding:5px 30px 5px 15px;
+}
+
+.no-program {
+    margin-top:50px;
+}
+
+.table_programs thead tr th {
+    background-color:#666666;
+    color: white;
+}
+
+.table_programs tbody tr th:last-child {
+    width:50px;
+    text-align:center;
+}
+
+.table_programs tbody tr td:last-child {
+    width:50px;
+    text-align:center;
+}
+
+.btn-app {
+    min-width:50px;
+    background-color:#E6E6E6;
+    border:1px solid #BDBDBD;
+    margin: 0px;
+}
+
+.submit-wrapper {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.alert-dismissable {
+    color:#3C8DBC;
+    float:right;
+    margin:0px;
+    font-size:11px;
+}

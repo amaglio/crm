@@ -1,0 +1,175 @@
+.btn-group-sm>.btn, .btn-sm {
+    padding: 2px 4px;
+}
+
+.btn-bitbucket {
+    background-color:#dd4b39;
+}
+
+.multiselect {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.calendario {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.load-queries,
+.titulo_tarjeta a {
+    color:white;
+}
+
+.load-queries i {
+    padding:5px;
+    padding-right:10px;
+    color:white;
+}
+
+.content-header a {
+    color: #000;
+}
+
+.query-card-wrapper > div {
+    height:auto;
+    min-height: 150px;
+}
+
+.titulo_tarjeta small {
+    font-size:15px;
+    height:20px;
+}
+
+.titulo_tarjeta .users-list-name {
+    font-size:14px;
+}
+
+.tarjeta .info-box-number small, .query-date {
+    font-size:12px;
+    height:20px;
+}
+
+.info-box-number .label {
+    font-size: 10px;
+}
+
+.query-year-description {
+    float:right;
+    font-size:12px;
+    height:20px;
+}
+
+.callout-danger a {
+    color: black;
+}
+
+.right-pane button {
+    margin-bottom: 10px;
+}
+
+.not-imported a,
+.my-queries a,
+.active-events a,
+.unchecked-queries a {
+    color: white;
+}
+
+.progress-description i {
+    padding-left: 5px;
+}
+
+.btn-bitbucket {
+    background-color:#dd4b39;
+}
+
+.list-group-item {
+    padding: 5px;
+}
+
+.btn-purple {
+    background-color: #605ca8;
+    border-color: #575583;
+    color:white;
+}
+
+.btn-purple:hover {
+    background-color: #3b3688;
+    color:white;
+}
+
+.btn-pink {
+    background-color: #dc5ac6;
+    border-color: #b16ea5;
+    color:white;
+}
+
+.btn-pink:hover {
+    background-color: #9a418b;
+    color:white;
+}
+
+.btn-celeste {
+    background-color: #5abfc9;
+    border-color: #52bec9;
+    color:white;
+}
+
+.btn-celeste:hover {
+    background-color: #4a9198;
+    color:white;
+}
+
+.btn-naranja {
+    background-color: #dc905a;
+    border-color: #c18154;
+    color:white;
+}
+
+.btn-naranja:hover {
+    background-color: #c18154;
+    color:white;
+}
+
+.btn-verde_azulado {
+    background-color: #29855f;
+    border-color: #226348;
+    color:white;
+}
+
+.btn-verde_azulado:hover {
+    background-color: #194e38;
+    color:white;
+}
+
+.info-box-icon{
+    width: 70px;
+    font-size: 35px;
+}
+
+.info-box-content{
+    margin-left:70px;
+}
+
+.tarjeta{
+    min-height: 90px !important;
+}
+
+.icono_foto{
+    margin-right:30px;
+    background-color:white   ;
+}
+
+.titulo_tarjeta{
+    background-color:#3c8dbc;
+    color:white;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+.tarjeta-ultimas{
+    background-color:#00a65a;
+}
+
+ 

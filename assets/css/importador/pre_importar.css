@@ -1,0 +1,190 @@
+#fusionar {
+    visibility: hidden;
+}
+
+#vincular {
+    visibility: hidden;
+}
+
+#eliminar {
+    visibility: hidden;
+}
+
+#div_botones {
+    display: none;
+}
+
+.head-info {
+    padding-top: 10px;
+}
+
+.callout {
+    padding: 5px;
+    margin: 5px;
+    border-left: 20px solid #eee;
+    background-color: white;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 15px;
+}
+
+.li {
+    padding: 5px
+}
+
+.table {
+    margin-bottom: 5px;
+}
+
+.products-list>.item {
+    padding: 0px;
+}
+
+.callout.callout-success {
+    background-color: rgba(0, 166, 90, 0.37) !important;
+}
+
+.callout.callout-danger {
+    background-color: rgba(194, 51, 33, 0.34) !important;
+}
+
+th {
+    font-size: 13px;
+    text-align: left;
+    width: 100px;
+    border: none;
+    color: black;
+    line-height: 1px;
+    padding: 2px;
+}
+
+td {
+    font-size: 13px;
+    text-align: left;
+    width: 100px;
+    color: black;
+    line-height: 1px;
+    padding: 2px;
+}
+
+.info-box-icon {
+    height: 75px;
+    line-height: 70px;
+    font-size: 45px;
+}
+
+.info-box {
+    margin-bottom: 5px;
+    box-shadow: none;
+}
+
+.info-box-content {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.info-box {
+    background-color: #ecf0f5;
+}
+
+span.info-box-icon.bg-green.tabla {
+    font-size: 20px;
+    height: 29px;
+    line-height: 30px;
+    width: 40px;
+    padding-top: 2px;
+}
+
+span.info-box-icon.bg-aqua.tabla {
+    font-size: 20px;
+    height: 29px;
+    line-height: 30px;
+    width: 40px;
+    padding-top: 2px;
+}
+
+span.info-box-icon.bg-red.tabla {
+    font-size: 20px;
+    height: 29px;
+    line-height: 30px;
+    width: 40px;
+    padding-top: 2px;
+}
+
+.callout {
+    border-left: 25px solid #ccc;
+}
+
+.product-list-in-box>.item {
+    border-bottom: none;
+    padding-bottom: 10px;
+}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    vertical-align: middle;
+}
+
+th {
+    width: 0px;
+}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    padding: 2px;
+}
+
+.table.no-coincidences,
+.table.coincidences {
+    border: none;
+}
+
+.table.no-coincidences tr:first-of-type,
+.table.coincidences tr:first-of-type {
+    height:45px;
+}
+
+.table.no-coincidences th:nth-child(1),
+.table.coincidences tr td:nth-child(1) {
+    width: 30px;
+}
+
+.table.coincidences tr td:nth-child(2) {
+    width: 65px;
+}
+
+.table.coincidences tr td:last-of-type {
+    width: 10px;
+}
+
+.table.no-coincidences th.contact-column {
+    width:20%;
+    font-size:15px;
+}
+
+.table.no-coincidences tr:first-of-type th:last-of-type,
+.table.coincidences tr:first-of-type th:last-of-type {
+    width: 10px;
+}
+
+.table.coincidences {
+    margin-left: -5px;
+    margin-right: 20px;
+}
+
+.table.coincidences th.contact-column {
+    width:100px;
+    font-size:15px;
+}
+
+.contact-source {
+    font-size: 15px;
+}

@@ -1,0 +1,60 @@
+label.error {
+    float: none;
+    color: red;
+    padding-left: 0px;
+    vertical-align: bottom;
+}
+
+.sin_registros {
+    color: red;
+    background-color: #F8E0E0;
+    border: 1px solid #F78181;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 2px;
+}
+
+.content-header {
+    background-color: red;
+}
+
+.callout.callout-informativo {
+    border-color: #f39c12;
+    background-color: rgba(243, 156, 18, 0.58);
+}
+
+.content-header {
+    padding-top: 5px;
+}
+
+.panel-body {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.main-sidebar,
+.left-side {
+    width: 200px;
+}
+
+.main-header .logo {
+    width: 200px;
+}
+
+.content-wrapper {
+    margin-left: 200px;
+}
+
+.navbar.navbar-static-top {
+    margin-left: 200px;
+}
+
+.content-wrapper,
+.right-side,
+.main-footer {
+    margin-left: 200px;
+}
+
+.logo-mini img, .logo-lg img {
+    height:35px !important;
+}

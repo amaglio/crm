@@ -1,0 +1,6 @@
+21-05-201811:47:32AMMAGLIOLA INSERT INTO CRM_ENTIDADES (n_id_entidad, c_observaciones) VALUES (67316, SUBSTR('F.Reg:17/05/2018 12:29 AM Inst.: Cardenal stepinac ', 1, 200));
+21-05-201811:47:32AMMAGLIOLA  INSERT INTO CRM_CONTACTOS (n_id_contacto, n_id_entidad, d_apellidos, d_nombres, c_anio_ingreso, c_periodo_ingreso, c_origen_contacto, c_forma_contacto) VALUES (61519, 67316, 'Nestico', 'Camila',2016, '', 'Espontáneo', 'Form. Aranceles');
+21-05-201811:47:32AMMAGLIOLA INSERT INTO CRM_TELEFONOS_ENTIDAD (n_id_entidad, c_tipo_telefono, c_numero) VALUES (67316, 'Particular 1', '1132604978');
+21-05-201811:47:32AMMAGLIOLA INSERT INTO CRM_EMAILS_ENTIDAD (n_id_entidad, c_email) VALUES (67316, 'camilanestico15@gmail.com');
+21-05-201811:47:32AMMAGLIOLA UPDATE CRM_CONTACTOS_A_IMPORTAR SET m_importado = 'Si', f_fecha_import_elim = SYSDATE, n_id_contacto = 61519 WHERE (n_id_importar = 171916);
+21-05-201811:47:32AMMAGLIOLA UPDATE CRM_CONTACTOS_A_IMPORTAR SET m_eliminar = 'Si', f_fecha_import_elim = SYSDATE WHERE (n_id_importar = 150539);

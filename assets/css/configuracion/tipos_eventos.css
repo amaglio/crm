@@ -1,0 +1,47 @@
+#datos_programa {
+    display: none;
+}
+
+#tabla_eventos thead tr {
+    background-color: rgba(60, 141, 188, 0.35);
+}
+
+#tabla_eventos thead tr th:last-child {
+    width:60px;
+}
+
+.div .dataTables_filter {
+    text-align:left;
+}
+
+.tabla_eventos_previous {
+    text-align:left;
+}
+
+.modal-footer {
+    border-top:none;
+}
+
+.callout-informativo {
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.callout-informativo a {
+    color: black;
+}
+
+.callout-msg {
+    padding:5px 30px 5px 15px;
+}
+
+.modal-content {
+    width:800px;
+    margin-right:200px;
+}
+
+.modal-header {
+    background-color:#3c8dbc;
+    color:white;
+}
+

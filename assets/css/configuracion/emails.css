@@ -1,0 +1,53 @@
+#datos_programa{
+    display: none;
+}
+
+#tabla_emails {
+    width: 100%;
+}
+
+#tabla_emails thead tr {
+    background-color: rgba(60, 141, 188, 0.35);
+}
+
+#tabla_emails thead tr th:last-child {
+    width:60px;
+}
+
+#modal_editar_email .modal-dialog {
+    width:800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#modal_editar_email .modal-header {
+    background-color:#3c8dbc;
+    color:white;
+}
+
+.div .dataTables_filter{
+    text-align:left;
+}
+
+.tabla_emails_previous{
+    text-align:left;
+}
+
+.callout-informativo {
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.callout-informativo p a {
+    color: black;
+}
+
+.callout-danger {
+    padding:5px 30px 5px 15px;
+}
+
+.f-12px {
+    font-size:12px;
+}
+

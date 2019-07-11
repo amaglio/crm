@@ -1,0 +1,34 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-12-27 17:03:09 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:03:09 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:03:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:22 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:03:22 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:03:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:26 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:03:26 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:03:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:03:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:37:11 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:37:11 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:37:11 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:37:11 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:37:11 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:37:11 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/home/home.php 66
+ERROR - 2017-12-27 17:37:31 --> Severity: Warning  --> Attempt to assign property of non-object /var/www/html/crm/application/models/contacto_model.php 38
+ERROR - 2017-12-27 17:37:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/contacto/contactos.php 84
+ERROR - 2017-12-27 17:37:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/contacto/contactos.php 86
+ERROR - 2017-12-27 17:37:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/contacto/contactos.php 87
+ERROR - 2017-12-27 17:37:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/contacto/contactos.php 87
+ERROR - 2017-12-27 17:37:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/contacto/contactos.php 87
+ERROR - 2017-12-27 17:37:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/contacto/contactos.php 88
+ERROR - 2017-12-27 17:37:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/crm/application/views/contacto/contactos.php 88
